@@ -1,4 +1,6 @@
-Feature: OrangeHRM Login
+Feature: OrangeHRM-Login
+
+  @sanity
   Scenario: Logo presence on Homepage
     Given launch chrome browser
     When open web home page

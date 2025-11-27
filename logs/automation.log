@@ -1,0 +1,44 @@
+2025-11-26 12:24:42,681  INFO [main] OrangeHRMSteps:28 - ************* Launching browser **************
+2025-11-26 12:25:03,785  INFO [main] OrangeHRMSteps:35 - ************* Opening url **************
+2025-11-26 12:25:03,789  INFO [main] OrangeHRMSteps:40 - ************* Checking logo **************
+2025-11-26 12:25:04,054  INFO [main] OrangeHRMSteps:43 - ************* checking logo completed **************
+2025-11-26 12:25:04,076  INFO [main] OrangeHRMSteps:46 - ************* verified and assertion completed **************
+2025-11-26 12:25:04,079  INFO [main] OrangeHRMSteps:52 - ************* closing browser **************
+2025-11-26 12:52:21,008  INFO [main] OrangeHRMSteps:52 - ************* Launching browser **************
+2025-11-26 12:52:34,581  INFO [main] OrangeHRMSteps:59 - ************* Opening url **************
+2025-11-26 12:52:34,584  INFO [main] OrangeHRMSteps:64 - ************* Checking logo **************
+2025-11-26 12:52:35,511  INFO [main] OrangeHRMSteps:67 - ************* checking logo completed **************
+2025-11-26 12:52:35,616  INFO [main] OrangeHRMSteps:70 - ************* verified and assertion completed **************
+2025-11-26 12:52:35,619  INFO [main] OrangeHRMSteps:76 - ************* closing browser **************
+2025-11-26 12:55:21,465  INFO [main] OrangeHRMSteps:52 - ************* Launching browser **************
+2025-11-26 12:55:54,520  INFO [main] OrangeHRMSteps:59 - ************* Opening url **************
+2025-11-26 12:55:54,524  INFO [main] OrangeHRMSteps:64 - ************* Checking logo **************
+2025-11-26 12:55:58,251  INFO [main] OrangeHRMSteps:67 - ************* checking logo completed **************
+2025-11-26 12:55:58,375  INFO [main] OrangeHRMSteps:70 - ************* verified and assertion completed **************
+2025-11-26 12:55:58,386  INFO [main] OrangeHRMSteps:76 - ************* closing browser **************
+2025-11-26 13:01:23,238  INFO [main] OrangeHRMSteps:52 - ************* Launching browser **************
+2025-11-26 13:01:33,638  INFO [main] OrangeHRMSteps:59 - ************* Opening url **************
+2025-11-26 13:01:33,642  INFO [main] OrangeHRMSteps:64 - ************* Checking logo **************
+2025-11-26 13:01:34,704  INFO [main] OrangeHRMSteps:67 - ************* checking logo completed **************
+2025-11-26 13:01:34,867  INFO [main] OrangeHRMSteps:70 - ************* verified and assertion completed **************
+2025-11-26 13:01:34,869  INFO [main] OrangeHRMSteps:76 - ************* closing browser **************
+2025-11-26 16:04:16,139  INFO [main] OrangeHRMSteps:52 - ************* Launching browser **************
+2025-11-26 16:09:45,940  INFO [main] OrangeHRMSteps:52 - ************* Launching browser **************
+2025-11-26 16:10:11,323  INFO [main] OrangeHRMSteps:59 - ************* Opening url **************
+2025-11-26 16:10:11,333  INFO [main] OrangeHRMSteps:64 - ************* Checking logo **************
+2025-11-26 16:10:12,473  INFO [main] OrangeHRMSteps:67 - ************* checking logo completed **************
+2025-11-26 16:10:12,483  INFO [main] OrangeHRMSteps:70 - ************* verified and assertion completed **************
+2025-11-26 16:10:12,483  INFO [main] OrangeHRMSteps:76 - ************* closing browser **************
+2025-11-26 16:13:34,986  INFO [main] OrangeHRMSteps:52 - ************* Launching browser **************
+2025-11-26 16:14:10,053  INFO [main] OrangeHRMSteps:59 - ************* Opening url **************
+2025-11-26 16:14:10,061  INFO [main] OrangeHRMSteps:64 - ************* Checking logo **************
+2025-11-26 16:14:11,424  INFO [main] OrangeHRMSteps:67 - ************* checking logo completed **************
+2025-11-26 16:14:11,451  INFO [main] OrangeHRMSteps:70 - ************* verified and assertion completed **************
+2025-11-26 16:14:11,453  INFO [main] OrangeHRMSteps:76 - ************* closing browser **************
+2025-11-26 16:32:51,277  INFO [main] OrangeHRMSteps:52 - ************* Launching browser **************
+2025-11-26 17:02:30,119  INFO [main] OrangeHRMSteps:52 - ************* Launching browser **************
+2025-11-26 17:02:37,120  INFO [main] OrangeHRMSteps:59 - ************* Opening url **************
+2025-11-26 17:02:37,123  INFO [main] OrangeHRMSteps:64 - ************* Checking logo **************
+2025-11-26 17:02:37,289  INFO [main] OrangeHRMSteps:67 - ************* checking logo completed **************
+2025-11-26 17:02:37,301  INFO [main] OrangeHRMSteps:70 - ************* verified and assertion completed **************
+2025-11-26 17:02:37,304  INFO [main] OrangeHRMSteps:76 - ************* closing browser **************
